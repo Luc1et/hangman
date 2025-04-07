@@ -27,4 +27,4 @@ To je vše.
 Součástí repozitáře je i můj návrh/pseudokód hry – soubor `Hangman_pseudokod.png`.  
 Používala jsem ho jako pomůcku při plánování hry, abych si ujasnila logiku, strukturu kódu a základní principy v Pythonu.
 
-![Návrh hry - pseudokód](Hangman_pseudokod.png)
+![Návrh hry - pseudokód](assets/Hangman_pseudokod.png)
