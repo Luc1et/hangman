@@ -33,6 +33,11 @@ Z původního jednoduchého skriptu tak vznikla verze, kterou bych si sama ráda
 
 ---
 
+#### 🧠 Návrh hry – pseudokód
+
+Níže přikládám obrázek s mým původním návrhem logiky hry Hangman.  
+Pomohl mi při plánování struktury kódu, rozdělení funkcí a pochopení průběhu hry.
+
 ![Návrh hry – pseudokód](assets/Hangman_pseudokod.png)
 
 ---
