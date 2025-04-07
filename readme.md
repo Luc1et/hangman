@@ -7,7 +7,7 @@
 Tento projekt je vylepšená verze klasické textové hry **Hangman – Šibenice**, napsaná v jazyce Python.  
 Hráč hádá písmena, aby odhalil hledané slovo, než se šibenice dokončí a kat vykoná svůj ortel.
 
-Na této verzi jsem si chtěla **vyzkoušet uplatnění zásad ZOC – Zásady čistého kódu**. Zaměřila jsem se na čitelnější strukturu, logické rozdělení funkcí a srozumitelnější názvy proměnných.  
+Na této verzi jsem si chtěla **vyzkoušet uplatnění zásad Zen Of Code – Zásady čistého kódu**. Zaměřila jsem se na čitelnější strukturu, logické rozdělení funkcí a srozumitelnější názvy proměnných.  
 Z původního jednoduchého skriptu tak vznikla verze, kterou bych si sama ráda přečetla znovu i za měsíc. 😄
 
 ---
@@ -29,7 +29,7 @@ Z původního jednoduchého skriptu tak vznikla verze, kterou bych si sama ráda
 - **Python 3**
 - **Rich knihovna** – barevný výpis v konzoli
 - **Random** – náhodný výběr slov
-- **Zásady ZOC (Zásady čistého kódu)** – přehlednost, modularita, čitelnost
+- **Zásady Zen Of Code (Zásady čistého kódu)** – přehlednost, modularita, čitelnost
 
 ---
 
